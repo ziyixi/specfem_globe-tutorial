@@ -1,0 +1,3 @@
+[submodule "specfem3d_globe"]
+	path = specfem3d_globe
+	url = https://github.com/geodynamics/specfem3d_globe
